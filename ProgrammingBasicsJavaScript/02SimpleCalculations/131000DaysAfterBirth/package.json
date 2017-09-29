@@ -1,0 +1,9 @@
+{
+  "name": "131000-days-after-birth",
+  "version": "0.0.0",
+  "description": "131000DaysAfterBirth",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

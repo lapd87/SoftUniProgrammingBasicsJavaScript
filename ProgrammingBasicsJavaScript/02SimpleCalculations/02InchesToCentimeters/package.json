@@ -1,0 +1,9 @@
+{
+  "name": "02-inches-to-centimeters",
+  "version": "0.0.0",
+  "description": "02InchesToCentimeters",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

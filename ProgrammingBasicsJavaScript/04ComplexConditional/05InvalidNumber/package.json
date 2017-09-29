@@ -1,0 +1,9 @@
+{
+  "name": "05-invalid-number",
+  "version": "0.0.0",
+  "description": "05InvalidNumber",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

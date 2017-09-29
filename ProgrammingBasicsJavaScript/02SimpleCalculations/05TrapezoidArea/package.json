@@ -1,0 +1,9 @@
+{
+  "name": "05-trapezoid-area",
+  "version": "0.0.0",
+  "description": "05TrapezoidArea",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "08-trade-comissions",
+  "version": "0.0.0",
+  "description": "08TradeComissions",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

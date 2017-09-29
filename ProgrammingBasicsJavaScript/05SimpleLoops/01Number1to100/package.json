@@ -1,0 +1,9 @@
+{
+  "name": "01-number1to100",
+  "version": "0.0.0",
+  "description": "01Number1to100",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "07-fruit-shop",
+  "version": "0.0.0",
+  "description": "07FruitShop",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

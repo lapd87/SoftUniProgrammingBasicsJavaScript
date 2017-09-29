@@ -1,0 +1,9 @@
+{
+  "name": "13-point-in-figure",
+  "version": "0.0.0",
+  "description": "13PointInFigure",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

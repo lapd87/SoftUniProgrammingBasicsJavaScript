@@ -1,0 +1,9 @@
+{
+  "name": "09-sum-digits",
+  "version": "0.0.0",
+  "description": "09SumDigits",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

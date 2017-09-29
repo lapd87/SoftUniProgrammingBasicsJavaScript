@@ -1,0 +1,9 @@
+{
+  "name": "11-enter-even-number",
+  "version": "0.0.0",
+  "description": "11EnterEvenNumber",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

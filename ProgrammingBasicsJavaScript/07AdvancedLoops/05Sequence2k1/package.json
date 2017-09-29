@@ -1,0 +1,9 @@
+{
+  "name": "05-sequence2k1",
+  "version": "0.0.0",
+  "description": "05Sequence2k1",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

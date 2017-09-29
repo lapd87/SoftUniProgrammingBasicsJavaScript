@@ -1,0 +1,9 @@
+{
+  "name": "07-greatest-common-divisior",
+  "version": "0.0.0",
+  "description": "07GreatestCommonDivisior",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

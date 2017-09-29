@@ -1,0 +1,9 @@
+{
+  "name": "12-speed-info",
+  "version": "0.0.0",
+  "description": "12SpeedInfo",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "05-number0_9-to-text",
+  "version": "0.0.0",
+  "description": "05Number0_9ToText",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

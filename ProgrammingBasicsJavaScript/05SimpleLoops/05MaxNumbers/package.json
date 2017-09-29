@@ -1,0 +1,9 @@
+{
+  "name": "05-max-numbers",
+  "version": "0.0.0",
+  "description": "05MaxNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

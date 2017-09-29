@@ -1,0 +1,9 @@
+{
+  "name": "12-fibonacci",
+  "version": "0.0.0",
+  "description": "12Fibonacci",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

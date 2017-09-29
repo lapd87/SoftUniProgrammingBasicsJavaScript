@@ -1,0 +1,9 @@
+{
+  "name": "12-volleyball",
+  "version": "0.0.0",
+  "description": "12Volleyball",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

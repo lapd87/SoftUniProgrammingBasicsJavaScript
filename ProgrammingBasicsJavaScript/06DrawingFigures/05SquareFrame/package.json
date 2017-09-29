@@ -1,0 +1,9 @@
+{
+  "name": "05-square-frame",
+  "version": "0.0.0",
+  "description": "05SquareFrame",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

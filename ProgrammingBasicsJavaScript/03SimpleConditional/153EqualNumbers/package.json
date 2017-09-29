@@ -1,0 +1,9 @@
+{
+  "name": "153-equal-numbers",
+  "version": "0.0.0",
+  "description": "153EqualNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

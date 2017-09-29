@@ -1,0 +1,9 @@
+{
+  "name": "06-number-in-range1to100",
+  "version": "0.0.0",
+  "description": "06NumberInRange1to100",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}

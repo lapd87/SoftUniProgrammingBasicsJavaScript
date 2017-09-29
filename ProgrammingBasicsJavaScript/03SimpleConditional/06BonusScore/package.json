@@ -1,0 +1,9 @@
+{
+  "name": "06-bonus-score",
+  "version": "0.0.0",
+  "description": "06BonusScore",
+  "main": "app.js",
+  "author": {
+    "name": "LAPD"
+  }
+}
